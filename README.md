@@ -32,7 +32,7 @@ git clone https://github.com/seu-usuario/bma_CRUD.git
 2. Navegue para o diretório do projeto:
 
 ```bash
-cd bma_CRUD2
+cd bma_CRUD
 ```
 
 3. Instale as dependências:
